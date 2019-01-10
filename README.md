@@ -2,7 +2,7 @@
 
 Kaggle's <a href="https://www.kaggle.com/c/home-credit-default-risk">Home Credit Default Risk</a> contest featured a $70,000 dollar prize for the most accurate model predicting which loan applications will result in the applicant defaulting on the loan (with accuracy measured by area under the ROC curve). 
 
-This project (full content in the <a href="https://github.com/gqfiddler/predicting-loan-defaults/blob/master/Supervised%20Learning%20Capstone.ipynb">"Supervised Learning Capstone.ipynb"</a> file above) details the entire data handling and model experimentation process. Particular techniques demonstrated include:
+This project (full content in the <a href="https://github.com/gqfiddler/predicting-loan-defaults/blob/master/Home%20Credit%20Default%20Prediction.ipynb">"Home Credit Default Prediction.ipynb"</a> file above) details the entire data handling and model experimentation process. Particular techniques demonstrated include:
 - data cleaning and visualization
 - merging disparate data tables
 - benchmarking multiple model types
